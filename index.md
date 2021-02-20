@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Bienvenido a Mi BLOG
 
-I'm glad you are here. I plan to talk about ...
+## Esta el la pagina principal del Blog
+
+Seguiremos aprendiendo
+
+
